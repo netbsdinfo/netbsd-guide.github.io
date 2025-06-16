@@ -1,3 +1,5 @@
+#Licensfil
+
 Detta är en juridisk textfil som berättar hur andra får använda ditt innehåll eller kod. Den skyddar dig och berättar vad andra får och inte får göra med ditt projekt.
 
 Varför den behövs:
