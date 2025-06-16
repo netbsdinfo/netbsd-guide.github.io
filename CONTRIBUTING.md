@@ -1,3 +1,5 @@
+# Hur andra kan bidra
+
 Detta är en guide för andra GitHub-användare som vill hjälpa till med ditt projekt. Den visar hur de får skicka in förbättringar, buggfixar, eller nya funktioner.
 
 Varför den behövs:
