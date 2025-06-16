@@ -1,6 +1,6 @@
 # 🎰 Casino utan svensk licens – Guide & Resurser
 
-Välkommen till detta projekt! Här samlar vi information, guider, länkar och verktyg kring ämnet **casino utan svensk licens** – ett område som växer snabbt bland svenska spelare.
+Välkommen till detta projekt! Här samlar vi information, guider, länkar och verktyg kring ämnet **[casino utan svensk licens](https://netbsd.info/)** – ett område som växer snabbt bland svenska spelare.
 
 ---
 
